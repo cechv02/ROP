@@ -1,0 +1,89 @@
+D:\Projekty\ROP\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+D:\Projekty\ROP\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+D:\Projekty\ROP\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+D:\Projekty\ROP\Asteroids\Asteroids\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Projekty\ROP\Asteroids\Asteroids\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Projekty\ROP\Asteroids\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+D:\Projekty\ROP\Asteroids\Asteroids\obj\Debug\Asteroids.formAsteroids.resources
+D:\Projekty\ROP\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+D:\Projekty\ROP\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+D:\Projekty\ROP\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CopyComplete
+D:\Projekty\ROP\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+D:\Projekty\ROP\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
+D:\Projekty\ROP\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+C:\Users\czman\Desktop\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+C:\Users\czman\Desktop\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+C:\Users\czman\Desktop\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+C:\Users\czman\Desktop\Asteroids\Asteroids\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\czman\Desktop\Asteroids\Asteroids\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\czman\Desktop\Asteroids\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+C:\Users\czman\Desktop\Asteroids\Asteroids\obj\Debug\Asteroids.formAsteroids.resources
+C:\Users\czman\Desktop\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+C:\Users\czman\Desktop\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+C:\Users\czman\Desktop\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\czman\Desktop\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CopyComplete
+C:\Users\czman\Desktop\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+C:\Users\czman\Desktop\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
+D:\Projekty\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+D:\Projekty\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+D:\Projekty\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+D:\Projekty\Asteroids\Asteroids\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Projekty\Asteroids\Asteroids\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Projekty\Asteroids\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+D:\Projekty\Asteroids\Asteroids\obj\Debug\Asteroids.formAsteroids.resources
+D:\Projekty\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+D:\Projekty\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+D:\Projekty\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+D:\Projekty\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CopyComplete
+D:\Projekty\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+D:\Projekty\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
+D:\Projekty\Asteroids\Asteroids\obj\Debug\Asteroids.menu.resources
+D:\Projekty\Asteroids\Asteroids\obj\Debug\Asteroids.finalscreen.resources
+D:\Projekty\Asteroids\Asteroids\obj\Debug\Asteroids.highscore.resources
+D:\Projekty\Asteroids - kopie\Asteroids\bin\Debug\Asteroids.exe.config
+D:\Projekty\Asteroids - kopie\Asteroids\bin\Debug\Asteroids.exe
+D:\Projekty\Asteroids - kopie\Asteroids\bin\Debug\Asteroids.pdb
+D:\Projekty\Asteroids - kopie\Asteroids\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Projekty\Asteroids - kopie\Asteroids\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Projekty\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+D:\Projekty\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.finalscreen.resources
+D:\Projekty\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.highscore.resources
+D:\Projekty\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.formAsteroids.resources
+D:\Projekty\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.menu.resources
+D:\Projekty\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+D:\Projekty\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+D:\Projekty\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+D:\Projekty\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.csproj.CopyComplete
+D:\Projekty\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.exe
+D:\Projekty\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.pdb
+G:\ROP\Asteroids - 20220125\Asteroids - kopie\Asteroids\bin\Debug\Asteroids.exe.config
+G:\ROP\Asteroids - 20220125\Asteroids - kopie\Asteroids\bin\Debug\Asteroids.exe
+G:\ROP\Asteroids - 20220125\Asteroids - kopie\Asteroids\bin\Debug\Asteroids.pdb
+G:\ROP\Asteroids - 20220125\Asteroids - kopie\Asteroids\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+G:\ROP\Asteroids - 20220125\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+G:\ROP\Asteroids - 20220125\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.finalscreen.resources
+G:\ROP\Asteroids - 20220125\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.highscore.resources
+G:\ROP\Asteroids - 20220125\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.formAsteroids.resources
+G:\ROP\Asteroids - 20220125\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.menu.resources
+G:\ROP\Asteroids - 20220125\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+G:\ROP\Asteroids - 20220125\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+G:\ROP\Asteroids - 20220125\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+G:\ROP\Asteroids - 20220125\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.csproj.CopyComplete
+G:\ROP\Asteroids - 20220125\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.exe
+G:\ROP\Asteroids - 20220125\Asteroids - kopie\Asteroids\obj\Debug\Asteroids.pdb
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\obj\Debug\Asteroids.finalscreen.resources
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\obj\Debug\Asteroids.highscore.resources
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\obj\Debug\Asteroids.formAsteroids.resources
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\obj\Debug\Asteroids.menu.resources
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CopyComplete
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
