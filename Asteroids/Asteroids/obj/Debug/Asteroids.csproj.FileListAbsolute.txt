@@ -87,3 +87,19 @@ C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\obj\Debug\Asteroids.
 C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CopyComplete
 C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\obj\Debug\Asteroids.exe
 C:\Users\czman\Desktop\Asteroids - done\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
+D:\Projekty\git\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+D:\Projekty\git\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+D:\Projekty\git\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+D:\Projekty\git\Asteroids\Asteroids\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Projekty\git\Asteroids\Asteroids\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Projekty\git\Asteroids\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+D:\Projekty\git\Asteroids\Asteroids\obj\Debug\Asteroids.finalscreen.resources
+D:\Projekty\git\Asteroids\Asteroids\obj\Debug\Asteroids.highscore.resources
+D:\Projekty\git\Asteroids\Asteroids\obj\Debug\Asteroids.formAsteroids.resources
+D:\Projekty\git\Asteroids\Asteroids\obj\Debug\Asteroids.menu.resources
+D:\Projekty\git\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+D:\Projekty\git\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+D:\Projekty\git\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+D:\Projekty\git\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CopyComplete
+D:\Projekty\git\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+D:\Projekty\git\Asteroids\Asteroids\obj\Debug\Asteroids.pdb

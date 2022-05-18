@@ -12,7 +12,7 @@ namespace Asteroids
 {
     public partial class formAsteroids : Form
     {
-
+        //github
         int numberofa = 30;  //počet asteroidů
         int direction = 0;
         int acceleration = 0;
